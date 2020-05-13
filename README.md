@@ -1,7 +1,7 @@
 # my-react-examples
 
 #### 介绍
-react开发框架
+react开发框架。 这个介绍是瞎写的。乱写
 
 #### 软件架构
 软件架构说明
